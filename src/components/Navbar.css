@@ -1,0 +1,50 @@
+.wrapper {
+  box-sizing: border-box;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+  font-family: "Noto Sans CJK KR";
+  /* background-image: url('../../static/title/title.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-bottom: 10%; */
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 300px;
+  /* padding: 20px; */
+}
+
+.nav-logo {
+  width: 40px;
+}
+.nav-logo__title {
+  list-style: none;
+  font-size: 18px;
+  text-decoration: none;
+  display: flex;
+}
+.nav-menu {
+  display: flex;
+  list-style: none;
+  text-align: center;
+  font-size: 18px;
+}
+.nav-links {
+  margin: 0 10px;
+
+  color: black;
+  font-weight: 800;
+  /* font-size: 18px; */
+  text-decoration: none;
+  /* padding: 0.5rem 1rem; */
+}
+
+.nav-title {
+  width: 100%;
+  color: white;
+}

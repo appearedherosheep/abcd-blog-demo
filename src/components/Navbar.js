@@ -24,7 +24,7 @@ export default function Navbar() {
         </ul>
         {/* <button>sign in</button> */}
       </nav>
-      {/* <img className="nav-title" src="/title/title.png" alt="title"/> */}
+      <img className="nav-title" src="/title/title.png" alt="title"/>
     </header>
   );
 }

@@ -1,0 +1,17 @@
+footer {
+    display: block;
+    padding: 15px 0 65px;
+    position: absolute;
+    bottom: 0;
+    padding: 0 300px;
+    width: 100%;
+
+  }
+  
+  p {
+    margin: 10px 0;
+    text-align: center;
+    color: #6c757d;
+    font-size: 14px;
+  }
+  

@@ -1,13 +1,11 @@
 import React from "react";
-import Navbar from "../components/Navbar";
-import "./index.css";
+import { Layout } from "../components/Layout";
 
-function IndexPage() {
+export function IndexPage() {
   return (
-    <Navbar />
-    // <div>
-    //   hello world
-    // </div>
+    <Layout>
+      <p>hello world</p>
+    </Layout>
   );
 }
 

@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer>
       <hr />
-      <p>Copyright &copy; ABCD 2022</p>
+      <p>Copyright &copy; 2022 ABCD Powered by Gatsby</p>
     </footer>
   );
 }

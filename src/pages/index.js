@@ -4,7 +4,7 @@ import { Layout } from "../components/Layout";
 export function IndexPage() {
   return (
     <Layout>
-      <p>hello world</p>
+      {/* <p>hello world</p> */}
     </Layout>
   );
 }
